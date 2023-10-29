@@ -1,3 +1,13 @@
+---
+title: 'Idols of the Analytic Traditions - README'
+author:
+- Hypatia du Bois-Marie
+keywords: [joke, meme, humor, mathematics, logic, formal methods, philosophy, linguistics]
+abstract: |
+...
+
+<!-- pandoc README.md -s --mathjax --highlight-style pygments --bibliography /home/hypatia/Workspace/Library/zotero.bib --citeproc -c index.css -o README.html -->
+
 # Idols of the Analytic Traditions - 分析聯萌
 This work is derived from outputs of [HotpotAI](https://hotpot.ai/art-generator).
 
