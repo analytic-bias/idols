@@ -1,5 +1,5 @@
 ---
-title: 'Idols of the Analytic Traditions'
+title: 'Idols of the Analytic Traditions - 分析聯萌'
 author:
 - Hypatia du Bois-Marie
 keywords: [joke, meme, humor, mathematics, logic, formal methods, philosophy, linguistics]
